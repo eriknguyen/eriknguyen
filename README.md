@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Erik, a frontend enthusiast
 
-- 📝 I _(am-trying-to)_ regularly write articles on [eriknguyen.com](eriknguyen.com)
+- 📝 I _(am-trying-to)_ regularly write articles on [eriknguyen.com](http://eriknguyen.com)
 - 💬 Ask me about **React, Next.js and frontend in general**
 
 <h3 align="left">Some random stats</h3>
