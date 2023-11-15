@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Erik, a frontend enthusiast
+### Hi there 👋, I'm Erik, a frontend enthusiast
 
 - 📝 I _(am-trying-to)_ regularly write articles on [injured.dev](http://www.injured.dev/)
 - 💬 Ask me about **React, Next.js and frontend in general**
